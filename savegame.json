@@ -1,0 +1,1 @@
+{"snake": [[540, 500], [540, 520], [540, 540]], "direction": [0, -20], "food_pos": [20, 460], "food_skin_idx": 0, "obstacles": [], "powerups": [{"pos": [560, 660], "type": "speed_boost"}], "score": 2, "powerup_active": null, "powerup_timer": 0, "snake_skin_idx": 0}
