@@ -1,6 +1,6 @@
 # Snake Game: The Classic Arcade Experience, Reimagined!
 
-![Snake Game Screenshot](screenshot.png) Get ready to slither into addictive fun with our enhanced Snake game! Relive the timeless arcade challenge with vibrant graphics, customizable skins, and exciting new features designed to keep you hooked.
+Get ready to slither into addictive fun with our enhanced Snake game! Relive the timeless arcade challenge with vibrant graphics, customizable skins, and exciting new features designed to keep you hooked.
 
 ---
 
